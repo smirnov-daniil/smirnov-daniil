@@ -25,7 +25,7 @@ I am a student of the Faculty of Computer Technology at ITMO University, I am in
 ![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto)
 ![DirectX](https://img.shields.io/badge/DirectX-%A41E22.svg?style=for-the-badge&logo=directX)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-[![OpenCL](https://upload.wikimedia.org/wikipedia/commons/5/56/OpenCL_Logo.svg)](https://www.khronos.org/opencl/)
+[![OpenCL](https://img.shields.io/badge/OpenCL-Enabled-blue?logo=opencl&logoColor=white)](https://www.khronos.org/opencl/)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 
 ## System control:
