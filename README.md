@@ -38,7 +38,7 @@ I am a student of the Faculty of Computer Technology at ITMO University, I am in
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smirnov-daniil&layout=compact&theme=tokyonight)<br/>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smirnov-daniil&layout=compact&theme=tokyonight)<br/> -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smirnov-daniil&show_icons=true&theme=tokyonight)
 
 
