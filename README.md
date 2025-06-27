@@ -10,7 +10,7 @@ I am a student of the Faculty of Computer Technology at ITMO University, I am in
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
-## Also know:
+## Familiar with:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -28,7 +28,7 @@ I am a student of the Faculty of Computer Technology at ITMO University, I am in
 [![OpenCL](https://img.shields.io/badge/OpenCL-green?style=for-the-badge&logo=opencl&logoColor=white)](https://www.khronos.org/opencl/)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 
-## System control:
+## Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)
 
@@ -38,9 +38,10 @@ I am a student of the Faculty of Computer Technology at ITMO University, I am in
 
 ---
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smirnov-daniil&layout=compact&theme=tokyonight)<br/> -->
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smirnov-daniil&layout=compact&theme=tokyonight)<br/> 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smirnov-daniil&show_icons=true&theme=tokyonight)
-
+-->
 
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=smirnov-daniil&theme=blue_navy&no-bg=false&margin-w=4)
